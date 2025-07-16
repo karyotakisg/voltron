@@ -65,7 +65,6 @@ requirements = [
     'requests',
     'requests_unixsocket',
     'six',
-    'pysigset',
     'pygments',
 ]
 if sys.platform == 'win32':
